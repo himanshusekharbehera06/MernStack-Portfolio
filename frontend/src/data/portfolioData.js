@@ -171,6 +171,15 @@ export const projects = [
     live: "#",
     accent: "from-emerald-500 to-teal-500",
   },
+  {
+    title: "Gym Management System",
+    description:
+      "A comprehensive gym management system built to streamline gym operations, member management, and class scheduling. Features include member registration, membership tracking, attendance management, payment processing, and workout plan management for an efficient fitness facility management solution.",
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
+    github: "https://github.com/himanshusekharbehera06/gym-management-system.git",
+    live: "#",
+    accent: "from-orange-500 to-red-500",
+  },
 ];
 
 export const socialLinks = [
